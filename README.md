@@ -5,8 +5,9 @@ If you want to read a brief description about how I got to make this model you c
 
 Libraries I used was:
   - **Tesorflow-GPU**
-  - **Keras**
   - **Matplotlib**
   - **OpenCV**
+  - **NumPy**
+  - **Keras**
 
 And project is tested over **Python 2.7**
