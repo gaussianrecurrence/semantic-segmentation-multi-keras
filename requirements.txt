@@ -1,7 +1,7 @@
 colorama==0.4.1
 Keras==2.2.5
 matplotlib==3.0.3
-numpy==1.16.5
+numpy==1.22.0
 pip-tools==3.9.0
 tensorflow==1.15.2
 tensorflow-estimator==1.15.1
